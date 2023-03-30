@@ -36,6 +36,15 @@ The app includes the following features:
 - Competition with friends to motivate users and create a sense of community.
 - User profiles with customized learning plans based on their skill level and goals.
 
+The backend includes the following features:
+
+- User authentication using Firebase Authentication.
+- Real-time database using Firebase Realtime Database for storing user profiles, progress, and learning plans.
+- Cloud storage using Firebase Cloud Storage for storing audio recordings of native speakers pronouncing Kazakh words and phrases.
+
+
+## App Preview
+
 <div style="display: flex; flex-direction: row;">
 
 <img src="https://user-images.githubusercontent.com/74404406/228928391-a2347cc8-11fb-42ab-ba53-62c1f64f38a6.jpg" alt="welcome_page" width="300" style="margin-right: 20px; margin-left: 20px;">
@@ -51,12 +60,6 @@ The app includes the following features:
 <img src="https://user-images.githubusercontent.com/74404406/228928535-de7e04b2-38ce-4eff-b7f9-89104f1c4f8d.jpg" alt="task_page" width="300" style="margin-right: 20px; margin-left: 20px;">
 </div>
 
-
-The backend includes the following features:
-
-- User authentication using Firebase Authentication.
-- Real-time database using Firebase Realtime Database for storing user profiles, progress, and learning plans.
-- Cloud storage using Firebase Cloud Storage for storing audio recordings of native speakers pronouncing Kazakh words and phrases.
 
 ## Contributing
 
