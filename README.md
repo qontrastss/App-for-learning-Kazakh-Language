@@ -8,7 +8,7 @@ To get started with the app, you will need to have Flutter installed on your mac
 
 Once you have installed Flutter and set up a Firebase project, you can clone the repository for this project using the following command:
 
-git clone https://github.com/<username>/<repository-name>.git
+git clone https://github.com/qontrastss/App-for-learning-Kazakh-Language.git
   
   
 After cloning the repository, you will need to configure your Firebase project credentials by adding them to the `google-services.json` file in the `android/app` directory and the `GoogleService-Info.plist` file in the `ios/Runner` directory.
@@ -35,6 +35,12 @@ The app includes the following features:
 - A progress tracker to help users monitor their learning progress and set goals for improvement.
 - Competition with friends to motivate users and create a sense of community.
 - User profiles with customized learning plans based on their skill level and goals.
+
+![welcome_page](https://user-images.githubusercontent.com/74404406/228928391-a2347cc8-11fb-42ab-ba53-62c1f64f38a6.jpg)
+![main_page](https://user-images.githubusercontent.com/74404406/228928445-2acefb1e-ed11-4812-8ab5-85b7390d9948.jpg)
+![congratulate](https://user-images.githubusercontent.com/74404406/228928471-aafc7fa8-c2d0-4f22-8a9f-0054de676bee.jpg)
+![lecture](https://user-images.githubusercontent.com/74404406/228928515-6a59d90a-5601-46b7-8e06-931765f6b864.jpg)
+![task](https://user-images.githubusercontent.com/74404406/228928535-de7e04b2-38ce-4eff-b7f9-89104f1c4f8d.jpg)
 
 The backend includes the following features:
 
