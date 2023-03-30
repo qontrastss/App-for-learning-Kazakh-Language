@@ -42,14 +42,14 @@ The app includes the following features:
 
 <img src="https://user-images.githubusercontent.com/74404406/228928445-2acefb1e-ed11-4812-8ab5-85b7390d9948.jpg" alt="main_page" width="300" style="margin-right: 20px; margin-left: 20px;">
 </div>
-<!-- 
-<div style="display: flex; flex-direction: row;">
-<img src="https://user-images.githubusercontent.com/74404406/228928471-aafc7fa8-c2d0-4f22-8a9f-0054de676bee.jpg" alt="congratulation_page" width="300" style="margin-right: 20px; margin-left: 20px;"//>
-  
-<img src="https://user-images.githubusercontent.com/74404406/228928515-6a59d90a-5601-46b7-8e06-931765f6b864.jpg" alt="lecture_page" width="300" style="margin-right: 20px; margin-left: 20px;"//>
 
-<img src="https://user-images.githubusercontent.com/74404406/228928535-de7e04b2-38ce-4eff-b7f9-89104f1c4f8d.jpg" alt="task_page" width="300" style="margin-right: 20px; margin-left: 20px;"//>
-</div> -->
+<div style="display: flex; flex-direction: row;">
+<img src="https://user-images.githubusercontent.com/74404406/228928471-aafc7fa8-c2d0-4f22-8a9f-0054de676bee.jpg" alt="congratulation_page" width="300" style="margin-right: 20px; margin-left: 20px;">
+  
+<img src="https://user-images.githubusercontent.com/74404406/228928515-6a59d90a-5601-46b7-8e06-931765f6b864.jpg" alt="lecture_page" width="300" style="margin-right: 20px; margin-left: 20px;">
+
+<img src="https://user-images.githubusercontent.com/74404406/228928535-de7e04b2-38ce-4eff-b7f9-89104f1c4f8d.jpg" alt="task_page" width="300" style="margin-right: 20px; margin-left: 20px;">
+</div>
 
 
 The backend includes the following features:
