@@ -36,7 +36,9 @@ The app includes the following features:
 - Competition with friends to motivate users and create a sense of community.
 - User profiles with customized learning plans based on their skill level and goals.
 
-![welcome_page](https://user-images.githubusercontent.com/74404406/228928391-a2347cc8-11fb-42ab-ba53-62c1f64f38a6.jpg)
+<img src="https://user-images.githubusercontent.com/74404406/228928391-a2347cc8-11fb-42ab-ba53-62c1f64f38a6.jpg" alt="welcome_page" width="200"/>
+
+<!-- ![welcome_page](https://user-images.githubusercontent.com/74404406/228928391-a2347cc8-11fb-42ab-ba53-62c1f64f38a6.jpg) -->
 ![main_page](https://user-images.githubusercontent.com/74404406/228928445-2acefb1e-ed11-4812-8ab5-85b7390d9948.jpg)
 ![congratulate](https://user-images.githubusercontent.com/74404406/228928471-aafc7fa8-c2d0-4f22-8a9f-0054de676bee.jpg)
 ![lecture](https://user-images.githubusercontent.com/74404406/228928515-6a59d90a-5601-46b7-8e06-931765f6b864.jpg)
